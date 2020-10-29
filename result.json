@@ -1,0 +1,130 @@
+[
+    {
+        "player_id": 805754497,
+        "player_name": "lolxdddddddd",
+        "Bot": "False",
+        "relation": "B",
+        "ship_name": "Admiral Hipper",
+        "ship_id": 4181636912,
+        "ship_type_short": "cc",
+        "ship_type_long": "Cruiser",
+        "total": {
+            "TotalBattles": 2286,
+            "TotalWins": 1060,
+            "TotalAvg_f": "46.37%",
+            "winrate_ship": 74,
+            "battles_ship": 150,
+            "avg_ship": "49.33%"
+        }
+    },
+    {
+        "player_id": 805401189,
+        "player_name": "nausmeister_",
+        "Bot": "False",
+        "relation": "B",
+        "ship_name": "Jean Bart",
+        "ship_id": 3751753552,
+        "ship_type_short": "bb",
+        "ship_type_long": "Battleship",
+        "total": {
+            "TotalBattles": "0",
+            "TotalWins": "0",
+            "TotalAvg_f": "0",
+            "winrate_ship": "0",
+            "battles_ship": "0",
+            "avg_ship": "0"
+        }
+    },
+    {
+        "player_id": 805932774,
+        "player_name": "dome1988",
+        "Bot": "False",
+        "relation": "A",
+        "ship_name": "Iowa",
+        "ship_id": 4276041712,
+        "ship_type_short": "bb",
+        "ship_type_long": "Battleship",
+        "total": {
+            "TotalBattles": 6977,
+            "TotalWins": 3670,
+            "TotalAvg_f": "52.60%",
+            "winrate_ship": 116,
+            "battles_ship": 236,
+            "avg_ship": "49.15%"
+        }
+    },
+    {
+        "player_id": 940133479,
+        "player_name": "lrps",
+        "Bot": "False",
+        "relation": "B",
+        "ship_name": "Georgia",
+        "ship_id": 3530504176,
+        "ship_type_short": "bb",
+        "ship_type_long": "Battleship",
+        "total": {
+            "TotalBattles": 6016,
+            "TotalWins": 2734,
+            "TotalAvg_f": "45.45%",
+            "winrate_ship": 19,
+            "battles_ship": 47,
+            "avg_ship": "40.43%"
+        }
+    },
+    {
+        "player_id": 805846002,
+        "player_name": "PB0_Leon",
+        "Bot": "False",
+        "relation": "B",
+        "ship_name": "Venezia",
+        "ship_id": 4179539696,
+        "ship_type_short": "cc",
+        "ship_type_long": "Cruiser",
+        "total": {
+            "TotalBattles": 9511,
+            "TotalWins": 5115,
+            "TotalAvg_f": "53.78%",
+            "winrate_ship": 86,
+            "battles_ship": 144,
+            "avg_ship": "59.72%"
+        }
+    },
+    {
+        "player_id": 806162547,
+        "player_name": "Mejla79",
+        "Bot": "False",
+        "relation": "A",
+        "ship_name": "Mogami",
+        "ship_id": 4285445840,
+        "ship_type_short": "cc",
+        "ship_type_long": "Cruiser",
+        "total": {
+            "TotalBattles": 3309,
+            "TotalWins": 1586,
+            "TotalAvg_f": "47.93%",
+            "winrate_ship": 25,
+            "battles_ship": 48,
+            "avg_ship": "52.08%"
+        }
+    },
+    {
+        "player_id": 805570037,
+        "player_name": ":ladoprasek",
+        "Bot": "True",
+        "relation": "A",
+        "ship_name": "Roon",
+        "ship_id": 4180588336,
+        "ship_type_short": "cc",
+        "ship_type_long": "Cruiser"
+    },
+    {
+        "player_id": 805991677,
+        "player_name": ":Poljarnyj",
+        "Bot": "True",
+        "relation": "B",
+        "ship_name": "Musashi",
+        "ship_id": 3761190608,
+        "ship_type_short": "bb",
+        "ship_type_long": "Battleship"
+    }
+]
